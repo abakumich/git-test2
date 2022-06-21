@@ -1,1 +1,3 @@
-let i = 5;
+function test1() {
+  console.log("message1");
+}
